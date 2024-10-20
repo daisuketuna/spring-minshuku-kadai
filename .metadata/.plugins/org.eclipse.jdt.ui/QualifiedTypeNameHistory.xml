@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="org.slf4j.LoggerFactory"/>
+    <fullyQualifiedTypeName name="org.apache.logging.log4j.Logger"/>
+    <fullyQualifiedTypeName name="jakarta.validation.constraints.Email"/>
+    <fullyQualifiedTypeName name="com.example.samuraitravel.repository.UserRepository"/>
+    <fullyQualifiedTypeName name="com.example.samuraitravel.entity.VerificationToken"/>
+    <fullyQualifiedTypeName name="com.example.samuraitravel.security.UserDetailsImpl"/>
+    <fullyQualifiedTypeName name="org.springframework.data.domain.Sort"/>
+    <fullyQualifiedTypeName name="com.stripe.param.checkout.SessionCreateParams.LineItem.PriceData.ProductData"/>
+    <fullyQualifiedTypeName name="com.stripe.param.checkout.SessionCreateParams.Mode"/>
+    <fullyQualifiedTypeName name="com.stripe.param.checkout.SessionCreateParams.PaymentIntentData"/>
+    <fullyQualifiedTypeName name="com.stripe.param.checkout.SessionCreateParams.LineItem"/>
+    <fullyQualifiedTypeName name="com.stripe.param.checkout.SessionCreateParams.LineItem.PriceData"/>
+</qualifiedTypeNameHistroy>
